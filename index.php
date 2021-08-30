@@ -30,7 +30,9 @@
 
     <nav class="navbar navbar-expand-lg">
       <div class="container">
-        <a class="navbar-brand" href="#"><b style="border-bottom: 3px solid #54bdd3;">IRUBOOKS</b></a>
+        <a class="navbar-brand" href="#">
+          <b class="logo-iru"> <span style="color:#54bdd3;">IRU</span> BOOKS</b>
+        </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -95,11 +97,11 @@
 </div> 
 
     <!--  -->
-    <section class="mt-5">
+    <section class="mt-3">
       <div class="mx-5">
         <div class="row">
           <div class="col-md-12 mb-2">
-            <h4><b>Spesial di Tokopedia hari ini</b></h4>
+            <h4><b>Spesial hari ini</b></h4>
           </div>
         </div>
 
